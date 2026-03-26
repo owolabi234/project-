@@ -1,0 +1,33 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: 18px;
+  line-height: 1.6;
+  letter-spacing: -0.03em;
+}
+h1 {
+    font-weight: 800;
+    font-family: 48px;
+    line-height: 1.32;
+    letter-spacing: 0;
+    margin-bottom: 20px;
+}
+h2 {
+     color: blue;
+  font-weight: 600;             
+  font-size: 24px;
+  line-height: 1.4;             
+  letter-spacing: -0.01em;
+}
+p {
+    font-style: oblique;
+    font-size: medium;
+    font-weight: 400;
+    font-family: 30px;
+}
+header {
+     background-color: pink;
+    color: antiquewhite;
+    height: auto;
+}
